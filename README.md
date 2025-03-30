@@ -12,6 +12,8 @@
 
 **Quick Links:**
 *   **GitHub Repository:** [https://github.com/vinayak1729-web/PROJECT-RAMANUJAN](https://github.com/vinayak1729-web/PROJECT-RAMANUJAN)
+*    **Kaggle Notebook:** [https://www.kaggle.com/code/vinu1729/project-ramanujan](https://www.kaggle.com/code/vinu1729/project-ramanujan)
+
 
 ---
 
